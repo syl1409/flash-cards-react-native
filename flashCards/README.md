@@ -1,6 +1,6 @@
 # Flash card app
 
-This is an app that would hepl you with your studies through the usage of flash cards
+This is an app that would help you with your studies through the usage of flash cards
 
 ## Requirements
 You will need node and npm installed globally on your machine.
